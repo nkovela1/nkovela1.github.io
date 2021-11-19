@@ -47,7 +47,7 @@ linkedin_username: neel-kovelamudi
 # About Section
 # about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
-  ![Profile](/images/profile.jpg){: style="float: left; margin-right: 2em;"} Hi there, I'm Neel!
+  ![Profile](/images/profile.jpg){: style="float: left; margin-right: 2em;"} ![Cal_EECS](/images/cal-eecs.jpg){: style="float: right; margin-left: 2em;"} Hi there, I'm Neel!
 
   I am a graduate student in the EECS department at UC Berkeley focused on Machine Learning and Data Systems.
 
@@ -59,7 +59,30 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Experience # Title for the section
+  - title: Projects
+    layout: list
+    content:
+      - layout: top-middle
+        title: DECON
+        sub_title: Machine Learning Engineer, Project Manager
+        caption: August 2019 - May 2020
+        description: |
+          ![APL](/images/apl.png){: style="float: left; margin-right: 2em;"} This is the project that inspired my career in Machine Learning!
+
+          Sponsored by the Johns Hopkins Applied Physics Laboratory (APL) for the VA hospital system of the DMV area, our team worked full-time to build an autonomous hospital disinfection robot.
+
+          As project manager, I led our diverse team working between numerous disciplines: computer vision, robotics, hardware, and microbiology.
+
+          I worked hands-on as a machine learning engineer, creating a Faster R-CNN model for object detection using PyTorch and CUDA. This model was run on an NVIDIA Jetson TX2.
+          Additionally, I programmed our robot's arm movement by writing Python ROS scripts and successfully integrated all ROS nodes into a single system.
+        additional_links:
+          - title: Youtube Demo
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=am9WBv6CHMg
+          - title: Github
+            icon: fab fa-github
+            url: https://github.com/amirnafisa/Decon
+  - title: Experience
     layout: list # Type of content section (list/text)
     content:
       - layout: left
