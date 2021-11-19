@@ -29,6 +29,10 @@ linkedin_username: neel-kovelamudi
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
+additional_links:
+  - title: Resume
+    icon: far fa-file-alt
+    url: https://docs.google.com/document/d/1ohROCZTeSA8-st-aF30BwDvPmGkJue04yQNgZrxLam8/export?format=pdf&attachment=false
 # Additional icon links
 #additional_links:
 #- title: itsgoingto.be
