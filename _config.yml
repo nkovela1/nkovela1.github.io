@@ -140,8 +140,9 @@ content:
   - title: Other Interests
     layout: text
     content: |
-      ![Panna Cotta](/images/panna-cotta.jpg){: style="float: left; margin-right: 2em;"} ![Lamb](/images/lamb.jpg){: style="float: left; margin-right: 2em;"}
-      ![Barcelona](/images/sagrada-familia.jpg){: style="float: left; margin-right: 2em;"} ![Chengdu](/images/pagoda.jpg){: style="float: left; margin-right: 2em;"}
+      ![Panna Cotta](/images/panna-cotta.jpg){: style="float: left; margin-right: 2em; margin-bottom: 2em;"} ![Lamb](/images/lamb.jpg){: style="float: left; margin-right: 2em; margin-bottom: 2em;"}
+      ![Barcelona](/images/sagrada-familia.jpg){: style="float: left; margin-right: 2em; margin-bottom: 2em;"} ![Chengdu](/images/pagoda.jpg){: style="float: left; margin-right: 2em; margin-bottom: 2em;"}
+      ![Beyond](/images/beyond-wonderland.jpg){: style="float: left; margin-right: 2em; margin-bottom: 2em;"} ![Sunset](/images/sunset.jpg){: style="float: left; margin-right: 2em; margin-bottom: 2em;"}
       Other than music, there is nothing more therapeutic to me than cooking. I'm an improvisational chef. Hand me anything and I'll whip something up, no recipe needed!
 
       I am very outgoing and extroverted, and I always love meeting new people!
