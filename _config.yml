@@ -128,11 +128,28 @@ content:
   - title: Music
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am a singer and songwriter on the side! To accompany my vocals, I play the ukulele, guitar, piano, and harmonica.
+      I am a singer and songwriter on the side!
+
+      To accompany my vocals, I play the ukulele, guitar, piano, and harmonica.
+
+      While I am currently on TikTok (@neelk99), I plan to release my first Spotify EP in 2022.
+
+      I also love going to concerts, and I have a wide music taste encompassing R&B, EDM, pop, hip-hop, rap, jazz and soul.
+
+      I collect vinyls, and my favorite records are bossa nova albums featuring Antonio Carlos Jobim, João Gilberto, Stan Getz, and Elis Regina. Going along with the Brazilian theme, I love to samba!
   - title: Other Interests
     layout: text
     content: |
-      I thoroughly enjoy cooking and love meeting new people!
+      ![Panna Cotta](/images/panna-cotta.jpg){: style="float: left; margin-right: 2em;"} ![Lamb](/images/lamb.jpg){: style="float: right; margin-left: 2em;"}
+      Other than music, there is nothing more therapeutic to me than cooking. I'm an improvisational chef. Hand me anything and I'll whip something up, no recipe needed!
+
+      I am very outgoing and extroverted, and I always love meeting new people!
+
+      I'm a travel hacker! Best deal I've booked so far: Oakland to Barcelona for $150.
+
+      At least 90% of my clothes are thrifted, second-hand clothing is the sustainable way to go!
+
+      I'm a proud gay man and an ardent advocate for LGBTQ+ youth. Previously a member of oSTEM during my undergrad, I would love to connect about any new mentorship opportunities!
 
 # Footer
 footer_show_references: true
