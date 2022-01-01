@@ -109,7 +109,7 @@ content:
         sub_title: DRC Software Intern
         caption: September 2020 - December 2020
         description: |
-          ![GF](/images/gf-logo.png){: style="float: left; margin-right: 2em;"} I created a multithreaded parsing script for design rule checking GF's 180 nm process and streamlined software test case generation to resolve dependency conflicts for the QA team's regression testing.
+          ![GF](/images/gf-logo.png){: style="float: left; margin-right: 2em;"} I created a multithreaded parsing script for design rule checking GF's 180 nm process and streamlined chip test case generation using NLP methods and a K-means clustering algorithm.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
