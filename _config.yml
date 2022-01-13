@@ -51,9 +51,9 @@ additional_links:
 # About Section
 # about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
-  ![Profile](/images/Neel_Car.jpg){: style="float: left; margin-right: 2em;"} ![Cal_EECS](/images/cal-eecs.jpg){: style="float: right; margin-left: 2em;"} Hi there, I'm Neel! I'm 21 and live in San Francisco, California.
+  ![Profile](/images/Neel_Car.jpg){: style="float: left; margin-right: 2em;"} ![Cal_EECS](/images/cal-eecs.jpg){: style="float: right; margin-left: 2em;"} Hi there, I'm Neel! I'm 22 and live in San Francisco, California.
 
-  I'm a graduate student in the EECS department at UC Berkeley focused on Machine Learning and Data Systems and an alumnus of Johns Hopkins University Class of 2020.
+  I'm a graduate student in the EECS department at UC Berkeley finishing my master's degree in May 2022 and an alumnus of Johns Hopkins University Class of 2020.
 
   My current research is really cool! I'm managing a team that is applying deep learning to build knowledge graphs for applications in the DeFi space--an exciting hybrid project at the intersection of AI and crypto. Feel free to contact me to talk more about it!
 
