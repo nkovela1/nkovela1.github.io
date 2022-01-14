@@ -85,7 +85,7 @@ content:
             url: https://www.youtube.com/watch?v=am9WBv6CHMg
           - title: Github
             icon: fab fa-github
-            url: https://github.com/amirnafisa/Decon
+            url: https://github.com/nkovela1/Decon
   - title: Experience
     layout: list # Type of content section (list/text)
     content:
